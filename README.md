@@ -3,7 +3,7 @@
 <img align="right" alt="PH4RMA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SpadePH4RMA&theme=tokyonight&show_icons=true&hide_border=true" />
 
 - 💻 I am a young student and I live in France.
-- 🔩 I love developed
+- 🔩 I hate dev'.
 
 ---
 
